@@ -20,3 +20,8 @@
 git remote add origin 레포지토리 주소(https://github.com/)
 2. 최초 push 시에만, git push -u origin main
 
+---
+다른 로컬에서 원격 레포지토리에 있는 코드를 다운로드 하는 방법
+git clone 원격레포지토리주소
+
+
